@@ -1,0 +1,36 @@
+.item {
+    width: 25%;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.text-center{
+    margin-bottom: 30px;
+}
+.img{
+    padding: 0 70px;
+}
+.item__text{
+    text-align: center;
+    padding: 10px 0;
+}
+.item a{
+    padding: 10px 50px;
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 40px;
+
+}
+
+
+
+
+
+
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
